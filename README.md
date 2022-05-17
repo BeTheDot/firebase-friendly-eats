@@ -26,8 +26,10 @@ Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
 ## Tips
 Use if Git was not on your repository
  - https://dev.to/dance2die/push-git-cloned-repository-to-your-own-on-github-1ili
+
 Datamodel Documentation
  - https://firebase.google.com/docs/firestore/data-model
+
 Firestore Database Rules - Documentation
  - https://firebase.google.com/docs/firestore/security/get-started
 
