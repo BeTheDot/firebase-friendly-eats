@@ -23,7 +23,14 @@ Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
 
 [![Build Status](https://travis-ci.org/firebase/friendlyeats-web.svg?branch=master)](https://travis-ci.org/firebase/friendlyeats-web)
 
+## Tips
+Use if Git was not on your repository
+ - https://dev.to/dance2die/push-git-cloned-repository-to-your-own-on-github-1ili
+Datamodel Documentation
+ - https://firebase.google.com/docs/firestore/data-model
+Firestore Database Rules - Documentation
+ - https://firebase.google.com/docs/firestore/security/get-started
+
 [codelab]: https://codelabs.developers.google.com/codelabs/firestore-web
 [quickstart]: https://github.com/firebase/quickstart-js/tree/master/firestore
 [firestore-docs]: https://firebase.google.com/docs/firestore/
-[additional-tips]: https://dev.to/dance2die/push-git-cloned-repository-to-your-own-on-github-1ili 
